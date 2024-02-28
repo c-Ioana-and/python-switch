@@ -3,7 +3,7 @@
 ## Scop
 - acomodarea cu limbajul Python
 - întelegerea modului în care funcționează un switch și implementarea sa
-- cum funcționează tabela CAM și VLAN-urile
+- cum funcționează tabela CAM și VLAN-urile, cum influenteaza modul in care pachetele sunt transmise prin retea
 - cum se aplică STP-ul într-o rețea de switch-uri
 
 ## Implementare
